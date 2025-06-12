@@ -14,7 +14,7 @@
 
 ```bash
 git clone git@github.com:AndresSeminara/Weather.git
-cd wether
+cd weather
 ```
 
 2. Create and activate a virtual environment
